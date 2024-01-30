@@ -32,6 +32,8 @@ musicarlos72@gmail.com
 
 https://github.com/geniototal
 
+https://www.linkedin.com/in/carlos-malissia-30ab76272/
+
 <!--
 **geniototal/geniototal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
