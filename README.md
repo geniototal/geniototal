@@ -20,7 +20,7 @@ Stack:
 
 Mi Background:
 
-Hasta ahora me había desempeñado como Electricista habilitado, diseño y dirección de proyectos eléctricos y certificaciones, para lo cual, manejo Autocad y planillas de calculo excel. Tambien poseo experiencia en manejo y direccion de grupos de trabajo y me apasiona la docencia, así que también tengo experiencia como docente particular. En Herry tuve la oportunidad de ser Teaching assistans y además me desempeñé como lider de fron-end en el proyecto grupal de un e-commece completo.
+Hasta ahora me había desempeñado como Electricista habilitado, diseño y dirección de proyectos eléctricos y certificaciones, para lo cual, manejo Autocad y planillas de calculo excel. Tambien poseo experiencia en manejo y direccion de grupos de trabajo y me apasiona la docencia, así que también tengo experiencia como docente particular. En Herry tuve la oportunidad de ser Teaching assistans y además me desempeñé como lider de front-end en el proyecto grupal de un e-commece completo.
 
 Mis estudios:
 
